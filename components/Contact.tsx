@@ -8,8 +8,8 @@ const contactCards = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@alexbestdigital.com",
-    href: "mailto:hello@alexbestdigital.com",
+    value: "contact@alexbestportfolio.com",
+    href: "mailto:contact@alexbestportfolio.com",
   },
   {
     icon: Youtube,
@@ -20,7 +20,7 @@ const contactCards = [
   {
     icon: GraduationCap,
     label: "Academy",
-    value: "alexbestdigital.com",
+    value: "Alex Best Digital Academy",
     href: "#academy",
   },
 ];
